@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high-treason exhibited against the Fort-Royall, vvith all other the horn-works and breast-workes about the Citie. By the representative body of the Common-Counsell of the Citie. With the last will and testament of the said Fort-Royall. Also, her severall legacies to divers eminent persons of qualitie. Also her epitaph.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75660</idno>
+            <idno type="STC">Wing A3850</idno>
+            <idno type="STC">Thomason E417_11</idno>
+            <idno type="STC">ESTC R11650</idno>
+            <idno type="EEBO-CITATION">99859094</idno>
+            <idno type="PROQUEST">99859094</idno>
+            <idno type="VID">161320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161320)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E417[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high-treason exhibited against the Fort-Royall, vvith all other the horn-works and breast-workes about the Citie. By the representative body of the Common-Counsell of the Citie. With the last will and testament of the said Fort-Royall. Also, her severall legacies to divers eminent persons of qualitie. Also her epitaph.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "Nou: 26".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Presbyterianism --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161320:1" rendition="simple:additions"/>
+            <p>ARTICLES OF High-Treaſon Exhibited againſt the <hi>FORT-ROYALL,</hi> With all other the <hi>Horn-works</hi> and <hi>Breaſt-workes</hi> about the CITIE.</p>
+            <p>By the repreſentative body of the Common-Counſell of the CITIE.</p>
+            <p>WITH The laſt <hi>Will</hi> and <hi>Testament</hi> of the ſaid <hi>FORT-ROYALL.</hi>
+            </p>
+            <p>ALSO, Her ſeverall Legacies to divers eminent Perſons of Qualitie.</p>
+            <p>Alſo her <hi>Epitaph.</hi>
+            </p>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:161320:2"/>
+            <pb n="1" facs="tcp:161320:2"/>
+            <head>Articles Of High-Treaſon, &amp;c.</head>
+            <div type="article">
+               <head>Whereas this Fort for many Capitall crimes, and other notorious offences committed upon divers Members of the Citie, to the breach of our Priviledge, and City Cuſtomes; wee by advice of our great Counſell at <hi>Guild-Hall</hi> have drawn up against her theſe enſuing Articles following.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">I</seg>Nprimis,</hi> That this Grand Malig<g ref="char:EOLhyphen"/>nant Horn-worke, known by the Name of the <hi>Fort Royall;</hi> hath a<g ref="char:EOLhyphen"/>gainſt the lawes of our dread So<g ref="char:EOLhyphen"/>veraigne, and by the inſtigation of the devill, trayterouſly endea<g ref="char:EOLhyphen"/>voured to foment and profecute a New and bloody War, and hath kept back Supplyes from <hi>Ireland,</hi> and likewiſe keept out his Majeſty from his Children and Parliament, to the great decay of Tradings, and the forfeiture of our Charter, ann</p>
+               <p>Secondly, the loud <hi>Reports</hi> of her <hi>Tormenters</hi> called <hi>Ca<g ref="char:EOLhyphen"/>nons, &amp;c.</hi> being very hurtfull unto us even in their names as well as their natures; have ſo thundred from time to
+<pb n="2" facs="tcp:161320:3"/>time in our eares to the great diſturbance not only of our little wits, but to the great prejudice of our beloved wives, making ſo hideous a noyſe that many of them have lately miſcarried, and fell backwards at the very report of the <hi>Ordinance.</hi>
+               </p>
+               <p>Thirdly, ſhe hath been the abbettor and maintainer of many unlawfull ſports; for whilſt ſhe hath kept us drink<g ref="char:EOLhyphen"/>ing, dicing, at nine-pins and the like games or playes, our Wives have played <hi>fast</hi> and <hi>loſe</hi> with us, and have bin at <hi>Put,</hi> and <hi>In</hi> and <hi>In</hi> with others.</p>
+               <p>Fourthly, ſhe hath lately played the harlot, and proſti<g ref="char:EOLhyphen"/>tuted her body, and delivered up the key of her Turn-pike; or Virginity to Sir <hi>Thomas;</hi> to the great ſhame and diſtur<g ref="char:EOLhyphen"/>bance of the City.</p>
+               <p>Fifthly, ſhe hath commanded divers Citizens to guard her day and night, even as they tendred their duty, to ſtand bolt upright in their Armes, upon their guard, till their Wives have fortified their Halfe-Moones at home, and made new Horn-workes, and breaſt-workes, and arm'd their own men, and ſo put them in a poſture to raiſe a new War, which hath cauſed much jarring and diſſention, and many <hi>by-blowes</hi> in this City, to the great diſturbance in the Head-quarters of their husbands.</p>
+               <p>Reſolved upon the queſtion, that this pernicious Act of the ſaid <hi>Royall Fort</hi> is an abſolute invaſion of the City Charter in the repreſentative foreheads of their Deare Husbands.</p>
+               <p>Reſolved againe, that the ſaid <hi>Royall-Fort</hi> is <hi>ill-affected</hi> to the State and City.</p>
+               <p>Reſolved that there be a publick thankſgiving for the great deliverance of the Trained-Bands their brow-ant<g ref="char:EOLhyphen"/>lers; and for the demoliſhment of the ſaid <hi>Fort,</hi> and all other Forts, Sconces, halfe-Moones, Horne-workes and
+<pb n="3" facs="tcp:161320:3"/>Breaſtworks about the City; and a Covenant drawn up to defie Sir <hi>Thomas,</hi> and all his works hereafter.</p>
+               <p>
+                  <hi>Ordered,</hi> That ſpeedy courſe be taken for ſuppreſſing all <hi>private</hi> and unlawful ſeperte Congregations.</p>
+               <p>
+                  <hi>Ordered,</hi> That no perſon diſaffected to the <hi>Presbyterian Govern<g ref="char:EOLhyphen"/>ment</hi> be imployed in any publick truſt in the Citie.</p>
+               <p>
+                  <hi>Ordered,</hi> That Vnion be preſerved between all Citizens and their Wives, and all Iealouſie removed that may endanger their mutuall agreement.</p>
+               <p>
+                  <hi>Ordered,</hi> That the Militia be fully and wholly ſetled upon the Citie, as it was preſented at <hi>Ox bridge.</hi>
+               </p>
+               <p>
+                  <hi>Ordered,</hi> That the late Lord Major and his venerable Brothers be fully vindicated.</p>
+               <p>
+                  <hi>Ordered,</hi> That Quarter-man, and all other Independents that be ill affected to the peace of the Citie, be forth with brought to exemplar puniſhment.</p>
+               <p>The ſaid Fort underſtanding that theſe Articles of High-treaſon were drawn up againſt her, being prompted by the conſideration of the frailty of theſe changeable times, called a Scrivener, and made this Will following.</p>
+            </div>
+            <div type="article">
+               <pb n="4" facs="tcp:161320:4"/>
+               <head>The last Vill and Teſtament of the Fort-Royall, and all other Breſt-works and Horn-works a<g ref="char:EOLhyphen"/>about the Citie.</head>
+               <p>IN the name of <hi>Uulcan,</hi> and of the Committee for the ſafety of the Citie, <hi>Amen.</hi> I the Fort Royall, being a profeſt Presbyter, being ſore ſick in body, but in perfect memory doe make this my laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, in manner and form as followeth.</p>
+               <p>
+                  <hi>Inprimis,</hi> I doe bequeath my Ghoſt into the hands of Alderman <hi>Iſaac</hi> that gave it; to be buried in a parcell of the <hi>waſte ground</hi> of his lately revived <hi>credit,</hi> and to be bu<g ref="char:EOLhyphen"/>ried without ſound of Bell, or any words of Conjuration at my buriall.</p>
+               <p>
+                  <hi>Jtem</hi> I give and bequeath all my Guns to Sir <hi>Thomas Fairfax,</hi> and by him to be diſpoſed of for His Majeſties uſe.</p>
+               <p>
+                  <hi>Jtem,</hi> I bequeath my powder to the Citie boyes, that went to the Parliament to make <hi>Crackers,</hi> when the L. Major ſhall be releaſed from the <hi>Tower.</hi>
+               </p>
+               <p>
+                  <hi>Jtem,</hi> I bequeath my bullets unto the Citie Rampants that brought their duſt-baskets and fire ſhovels to helpe ſet me <hi>up;</hi> that with the ſaid bullets they may grind Muſtard, and ſo doe it in a diſh, which ſhall be ſomething for them to begin houſe withall; when the Wag-tayles ſhall be provided of yoak fellowes, otherwiſe called husbands.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath my ſtones unto the reverent new Dean of <hi>Pauls</hi> to help him build a ſtone-wall of <hi>Refor<g ref="char:EOLhyphen"/>mation</hi> that may be as hard and flinty as the hearts of his brethren, and he himſelfe more honeſt, then ever to make uſe of more Compurgators.</p>
+               <pb n="5" facs="tcp:161320:4"/>
+               <p>
+                  <hi>Item,</hi> I bequeath my ſouldiers, Montroſſes, and other for the reliefe of diſtreſſed <hi>Ireland,</hi> provided they be firſt furniſhed with their Arrears from the Citie.</p>
+               <p>
+                  <hi>Jtem,</hi> I bequeath my Sutlers wife to Doctor <hi>Sibbals</hi> to to be his Worſhips Nurſe, provided that ſhe nurſe none but his ligitimate Children.</p>
+               <p>
+                  <hi>Jtem,</hi> I give and bequeath all my wood unto Maſter <hi>German,</hi> Citie-Carpenter to make Gibits for the uſe of the Citie.</p>
+               <p>
+                  <hi>Jtem,</hi> I give my earth to the Parliament to put them in mind that they are but men, and all made of no better mettall, and are as ſubject to fate or deſolation as my ſelfe.</p>
+               <p>
+                  <hi>Jtem,</hi> My Sutler I bequeath to the care of Inſtice <hi>Long,</hi> and Iuſtice <hi>Lowder</hi> when he keeps aſutling Ale-houſe in the Suburbs, where I wiſh, that all his Gueſts may be pennileſſe; that he may pawn his wifes Petticoat to pay his Brewer, and his glorious ſhelves ſhine not ſo much as with an earthen Platter; inſtead of ſattin hangings, may the wals of his houſe be painted with choak, and the figers of of no more valew then Cyphers: May he weekly be ſub<g ref="char:EOLhyphen"/>ject to Informers, and his forfeited Licenſe be put to the laſt uſe of waſte paper, &amp;c.</p>
+               <p>Laſtly, all my graſſe upon my work to Alderman <hi>At<g ref="char:EOLhyphen"/>kins,</hi> to clenſe his Breeches, and conſtitute and ordain him and the reſt of his Brethren in the Tower to be my lawful Executors for the adminiſtration of this my laſt Will and ſtament.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="6" facs="tcp:161320:5"/>
+            <head>Epitah for a Post-ſcript.</head>
+            <l>Imperious <hi>Ignorance</hi> begot me firſt,</l>
+            <l>Put me to Presbytery to be nurſt:</l>
+            <l>That I dy'd young, alas I do confeſſe</l>
+            <l>J ſuck'd from her but <hi>varniſh'd Rotteneſſe.</hi>
+            </l>
+            <l>Whilſt I was one day in a ſprightfull trance</l>
+            <l>Fierce Death diſmounted all my Ordinance,</l>
+            <l>Seiz'd on all; now all was in his power,</l>
+            <l>And (like to Traytors) ſent us to the Tower,</l>
+            <l>Where like dull Aldermen, we are doom'd to lye</l>
+            <l>Till we be charg'd, and then must be let flye.</l>
+            <l>No hopes of a <hi>Reprieve;</hi> the mutinous cru</l>
+            <l>That ſtung brave <hi>Strafford,</hi> diſpatch me and you.</l>
+            <l>If we muſt hang, let not our ſtates much vary</l>
+            <l>Our office was alike, to * <hi>fetch and carry.</hi>
+            </l>
+            <l>Deare Citizens, for evermore farewell,</l>
+            <l>For ſins of <hi>Paracide,</hi> I muſt to Hell.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
